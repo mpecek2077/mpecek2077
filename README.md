@@ -27,5 +27,5 @@
 
 ### Connect
 
-- **LinkedIn:** [linkedin.com/in/maksymilian-pęcek-2a8a9a200](https://linkedin.com/in/maksymilian-pęcek-2a8a9a200)
+- **LinkedIn:** [linkedin.com/in/maksymilian-pecek](https://www.linkedin.com/in/maksymilian-pecek)
 - **Email:** pecekmaksymilian@gmail.com
