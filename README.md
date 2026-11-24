@@ -6,8 +6,8 @@
 
 ### Tech Stack
 
-- **Backend & Languages:** Java 21 (Spring Boot), TypeScript / JavaScript (Node.js), Python, SQL (PostgreSQL, MySQL)
-- **Frontend:** Next.js, React, Prisma ORM, REST & GraphQL APIs, WebSockets
+- **Backend & APIs:** Java 21 (Spring Boot), TypeScript / Node.js, Python, SQL (PostgreSQL, MySQL), Prisma ORM, REST & GraphQL, WebSockets
+- **Frontend:** React, Next.js, TypeScript, HTML/SCSS
 - **Testing & QA:** JUnit 5, Testcontainers, Playwright (E2E), JaCoCo, OpenAPI / Swagger
 - **Cloud & DevOps:** Microsoft Azure, Terraform / OpenTofu, SOPS, Docker, Nginx, Linux, GitHub Actions (CI/CD), SonarCloud
 - **AI & Automation:** Local LLMs (`llama.cpp`, Jan AI), structured JSON prompting, `n8n` workflows
